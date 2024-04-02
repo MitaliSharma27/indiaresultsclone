@@ -1,0 +1,144 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    }
+    .top 
+    {
+    width: 100%;
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 3px solid rgb(189, 16, 16);
+    padding-right: 15%;
+    box-sizing: border-box;
+    }
+    .top-left{
+        margin-left: 10%;
+        text-transform: capitalize;
+    }
+    .side-top{
+        display: flex;
+        width: 75%;
+        padding: 5px 14px;
+        margin-left: 10%;
+    }
+    .name{
+        display: flex;
+        align-items: center;
+    }
+    .side-h3{
+        text-transform: uppercase;
+    color: rgb(19, 10, 99);
+    font-size: 15px;
+    background-color: rgb(213, 213, 218);
+    padding: 12px;
+    }
+    .right-second{
+        background-color: white;
+        border: 1px solid rgb(211, 211, 231);
+        padding:4px;
+        font-size: 15px;
+    }
+    .second{
+        color: blue;
+        margin-right: 20px;
+    }
+    
+    .name a{
+        color: black;
+        text-transform: capitalize;
+    }
+    
+    .name a p{
+        margin-right: 15px;
+        
+    }
+    .name a h4{
+        color: rgb(209, 193, 193);    
+    }
+    .more a h3{
+        margin-left: 7vw;
+    }
+    .secondary{
+        display: flex;
+        border: 3px solid black;
+        justify-content: space-between;
+        width: 55%;
+        margin:  3% auto 2%;
+        
+    }
+    .secondary-left{
+        margin: 10px 0 0  10px;
+    
+    }
+    .div-list{
+        display: flex;
+        margin: 5% 15% 10% 4%;
+        font-size: 15px;
+        width: 100%;
+        gap: 50px;
+        text-transform: capitalize;
+    }
+    li a p{
+        color: rgb(88, 85, 85);
+    line-height: 25px;
+    }
+    a p:hover{
+        color: red;
+    }
+   
+    .para{
+        font-weight: 600;
+        font-family: 'Times New Roman';
+        margin:20px 0% 0px 22%  ;
+        
+    }
+    .h3{
+        margin-left: 38%;
+    }
+    .h4{
+        margin-left: 40%;
+    
+    }
+    .last{
+        border-top: 4px solid red;
+        padding-top: 30px;
+        margin-top: 10px;
+        background-color: rgb(59, 56, 56);
+        display: flex;
+        align-items: start;
+        justify-content: center;
+        gap: 10%;
+        color: white;
+    box-sizing: border-box;
+        width: 100%;
+    }
+        .last p{
+            color: rgb(146, 140, 140);
+        }
+        .h2{
+            color: white;
+            text-transform: uppercase;
+        }
+        .last p:hover{
+            color: white;
+        }
+        .list2{
+            border-top: 2px solid white;
+            margin-top: 15px;
+            padding-top: 20px;
+            font-size: 14px;
+            
+    
+        }
+        .list2 a p {
+            line-height: 15px;
+        }
+        .intro{
+        background-color: grey;
+    padding-bottom: 30px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+        }
